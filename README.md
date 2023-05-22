@@ -5,14 +5,11 @@
 <div align="center">
     <a href="https://linktr.ee/vaeep">
     <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=DiogoBnfr&show_icons=true&theme=github_dark&count_private=true"/>
-    <img align="center" width=45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoBnfr&layout=compact&theme=github_dark"/>
+    <img align="center" width=50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoBnfr&layout=compact&theme=github_dark"/>
 </div>
   
 <div align="center"><br>
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-	<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-	<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-	<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+            <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+            <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
+            <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 </div>
