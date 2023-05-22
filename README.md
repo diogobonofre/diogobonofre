@@ -4,8 +4,8 @@
 
 <div align="center">
     <a href="https://linktr.ee/vaeep">
-    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=DiogoBnfr&show_icons=true&theme=github_dark&count_private=true"/>
-    <img align="center" width=50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoBnfr&layout=compact&theme=github_dark"/>
+    <img align="center" width="60%" src="https://github-readme-stats.vercel.app/api?username=DiogoBnfr&show_icons=true&theme=github_dark&count_private=true"/>
+    <img align="center" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoBnfr&layout=compact&theme=github_dark"/>
 </div>
   
 <div align="center"><br>
