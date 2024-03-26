@@ -3,7 +3,7 @@
 <p align="left"> 
 λ CS undergrad at Unilasalle, 1st semester. Passionate about <strong>Linux</strong> and <strong>low-level</strong>.<br>Currently learning <strong>C</strong>, <strong>JavaScript</strong>, <strong>React</strong> and <strong>Bash</strong><br><br>
 <p>
-Profile Visit Counter:<br>
+
 <img src="https://profile-counter.glitch.me/DiogoBnfr/count.svg" alt="Número de visitantes no perfil"/>
 
 Currently working with:<br>
