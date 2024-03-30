@@ -2,6 +2,7 @@
 
 <p align="left"> 
 <strong>λ</strong> CS undergrad at Unilasalle, 1st semester. Passionate about <strong>Linux</strong> and <strong>low-level</strong>.<br>Currently learning <strong>C</strong>, <strong>JavaScript</strong>, <strong>React</strong> and <strong>Bash</strong><br><br>
+"IRC is just multiplayer Notepad."
 <p>
 
 <img src="https://profile-counter.glitch.me/DiogoBnfr/count.svg" alt="Número de visitantes no perfil"/>
