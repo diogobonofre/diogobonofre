@@ -1,13 +1,13 @@
 <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fxahlee.info%2Femacs%2Fmisc%2Fi%2FMarisa_Kirisame_emacs_magic.png&f=1&nofb=1&ipt=bf2a8b9dd038a05e93c296c2eb00efe96013136a619c44eeeb832284d6a938a2&ipo=images" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-<strong>λ</strong> CS undergrad at Unilasalle, 1st semester. Passionate about <strong>Linux</strong> and <strong>low-level</strong>.<br>Currently learning <strong>C</strong>, <strong>JavaScript</strong>, <strong>React</strong> and <strong>Bash</strong><br><br>
+<b>λ</b> CS undergrad at Unilasalle, 1st semester. Passionate about <b>Linux</b>, <b>Emacs</b>, <b>Free Software</b> and <b>low-level</b>.<br>Currently learning <b>C</b>, <b>JavaScript</b>, <b>React</b> and <b>Bash</b><br><br>
 "IRC is just multiplayer Notepad."
 <p>
 
 <img src="https://profile-counter.glitch.me/DiogoBnfr/count.svg" alt="Número de visitantes no perfil"/>
 
-<strong>λ</strong> Currently working with:<br>
+<b>λ</b> Currently working with:<br>
 <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white"/>
