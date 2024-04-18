@@ -1,7 +1,7 @@
 <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fxahlee.info%2Femacs%2Fmisc%2Fi%2FMarisa_Kirisame_emacs_magic.png&f=1&nofb=1&ipt=bf2a8b9dd038a05e93c296c2eb00efe96013136a619c44eeeb832284d6a938a2&ipo=images" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-<b>λ</b> CS undergrad at Unilasalle, 1st semester. Passionate about <b>Linux</b>, <b>Emacs</b>, <b>Free Software</b> and <b>low-level</b>.<br>Currently learning <b>C</b>, <b>JavaScript</b>, <b>React</b> and <b>Bash</b><br><br>
+<b>λ</b> CS undergrad at Unilasalle, 1st semester. Passionate about <b>Linux</b>, <b>Emacs</b>, <b>Free Software</b> and <b>low-level</b>.<br>Currently learning <b>C</b>, <b>JS</b>, <b>React</b> and <b>Ruby</b><br><br>
 "IRC is just multiplayer Notepad."
 <p>
 
