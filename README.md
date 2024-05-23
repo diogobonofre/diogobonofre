@@ -1,4 +1,4 @@
-<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fxahlee.info%2Femacs%2Fmisc%2Fi%2FMarisa_Kirisame_emacs_magic.png&f=1&nofb=1&ipt=bf2a8b9dd038a05e93c296c2eb00efe96013136a619c44eeeb832284d6a938a2&ipo=images" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://static.vecteezy.com/system/resources/thumbnails/012/011/430/small/retro-cyberpunk-style-80s-sci-fi-background-futuristic-with-laser-grid-landscape-digital-cyber-surface-style-of-the-1980s-png.png" alt="ilustração de um computador"  width="700px">
 
 <p align="left"> 
 <b>λ</b> CS undergrad at Unilasalle, 1st semester. Passionate about <b>Linux</b>, <b>Emacs</b> and <b>low-level programming</b>.<br>Currently learning <b>C/C++</b>, <b>C#</b> and <b>ASP.NET Core</b><br><br>
