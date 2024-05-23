@@ -1,6 +1,6 @@
 <img src="https://static.vecteezy.com/system/resources/thumbnails/012/011/430/small/retro-cyberpunk-style-80s-sci-fi-background-futuristic-with-laser-grid-landscape-digital-cyber-surface-style-of-the-1980s-png.png" alt="ilustração de um computador"  width="800px">
 
-<p align="left"> 
+<p> 
 <b>λ</b> CS undergrad at Unilasalle, 1st semester. Passionate about <b>Linux</b>, <b>Emacs</b> and <b>low-level programming</b>.<br>Currently learning <b>C/C++</b>, <b>C#</b> and <b>ASP.NET Core</b><br><br>
 "IRC is just multiplayer Notepad."
 <p>
