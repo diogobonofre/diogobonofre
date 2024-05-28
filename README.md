@@ -13,3 +13,10 @@
     <img src="https://skillicons.dev/icons?i=windows,linux,visualstudio,vscode,clion,rider,neovim,emacs,c,cpp,cs,html,css,js,react,git&perline=8" />
   </a>
 </p>
+
+<b>λ</b> Learning:<br>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,cpp,unreal,unity&perline=8" />
+  </a>
+</p>
