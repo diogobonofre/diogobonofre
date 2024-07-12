@@ -1,4 +1,4 @@
-<img src="https://w.wallhaven.cc/full/9m/wallhaven-9me3p1.png" alt="ilustração de um computador"  width="800px">
+<img src="https://w.wallhaven.cc/full/9m/wallhaven-9me3p1.png" alt="ilustração de um computador"  width="800px" height="300px">
 
 <p> 
 <b>λ</b> CS undergrad at Unilasalle, 1st semester. Passionate about <b>Linux</b>, <b>Emacs</b> and <b>low-level programming</b>.<br>Currently learning <b>C/C++</b>, <b>C#</b> and <b>ASP.NET Core</b><br><br>
