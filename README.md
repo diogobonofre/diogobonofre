@@ -1,1 +1,1 @@
-CS undergrad at Universidade Lasalle, 2nd semester. Passionate about technology, low-level programming and philosophy.
+CS undergrad at Universidade Lasalle, 2nd semester. Passionate about mathematics, physics, low-level programming and computer graphics.
