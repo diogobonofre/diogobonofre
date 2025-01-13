@@ -1,5 +1,5 @@
 # About Me
-🎓 Back-end Software Engineer and Computer Science student at Universidade LaSalle (3/8 semester).
+🎓 Back-end Software Engineer and Computer Science student at Universidade LaSalle.
 
 ⚙️ Passionate about creating efficient and scalable systems using:  
 - **C#** for enterprise solutions  
