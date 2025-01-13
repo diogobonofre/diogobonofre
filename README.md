@@ -4,7 +4,8 @@
 ⚙️ Passionate about creating efficient and scalable systems using:  
 - **C#** for enterprise solutions  
 - **Rust** for high-performance and safe programming  
-- **Node.js** for fast and dynamic back-end services  
+- **Node.js** for fast and dynamic back-end services
+- **C++** for low-level systems and graphics programming
 
 💻 I work across **Windows 11** and **Ubuntu**, with **Emacs** and **Visual Studio** as my trusty text editors.
 
