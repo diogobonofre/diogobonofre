@@ -13,6 +13,7 @@
 - **Japanese** vocabulary
 - Advanced DSA and low-level computers working with **C++**
 - Computer networks with **Rust**
+- Functional programming with **Lisp**
 
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/diogobonofre) [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:diogobonofre@gmail.com)
