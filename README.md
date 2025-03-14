@@ -1,8 +1,9 @@
 # About Me
-🎓 Back-end Software Engineer and Computer Science student at Universidade LaSalle.
+🎓 Computer Science student and AI researcher at Universidade LaSalle.
 
 ⚙️ Passionate about creating inovative performant solutions using:
 - **C#** for enterprise back-end solutions
+- **Python** for data analysis, automatizations and AI related services
 
 💻 I work across **Windows 11** and **Ubuntu**, with **Visual Studio** and **VS Code** as text editors.
 
