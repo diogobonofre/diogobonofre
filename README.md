@@ -4,8 +4,9 @@
 ⚙️ Passionate about creating inovative performant solutions using:
 - **C#** for enterprise back-end solutions
 - **Python** for data analysis, automatizations and AI related services
+- **Nix** for reproducible environments
 
-💻 I work across **Windows 11** and **Ubuntu**, with **Visual Studio** and **VS Code** as text editors.
+💻 I work across **Windows 11** and **NixOS**, with **Emacs** and **Visual Studio** as text editors.
 
 📬 Ask me about operational systems, computer networks or artificial intelligence.
 
