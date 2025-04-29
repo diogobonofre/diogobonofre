@@ -8,7 +8,9 @@
 
 💻 I work across **Windows 11** and **NixOS**, with **Emacs** and **Visual Studio** as text editors.
 
-📬 Ask me about operational systems, computer networks or artificial intelligence.
+📑 Learning functional programming, Haskell, NixOS and Docker.
+
+📬 Ask me about Linux, text-editors or programming languages.
 
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/diogobonofre) [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:diogobonofre@gmail.com)
